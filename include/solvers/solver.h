@@ -4,7 +4,7 @@
 #include <vector>
 #include <algorithm>
 #include <unordered_set>
-#include "letter_tree/letter_tree.h"
+#include "solvers/letter_tree/letter_tree.h"
 
 /**
  * @class Solver

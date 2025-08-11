@@ -1,4 +1,4 @@
-#include "letter_tree/letter_tree.h"
+#include "solvers/letter_tree/letter_tree.h"
 
 LetterTree::LetterTree() : root(new LetterNode()) {}
 
