@@ -2,4 +2,4 @@
 .vscode
 *.txt
 *.exe
-src/*.cpp
+/src/*.cpp
